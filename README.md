@@ -1,4 +1,5 @@
 # JavaMultiChat
+<img align="center" src="screenshot.png" alt="Screenshot of the game" /></img>
 ## Инструкция по запуску:
 ### 1. Запустить  сервер на PostgreSQL
 ### 2. В папке SocketServer:
